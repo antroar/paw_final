@@ -1,0 +1,24 @@
+{
+  "name": "pk04_forms",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "antroar <antu_8889@hotmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.3"
+  }
+}
